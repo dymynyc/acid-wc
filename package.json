@@ -1,0 +1,19 @@
+{
+  "name": "acid-wc",
+  "description": "",
+  "version": "1.0.0",
+  "homepage": "https://github.com/dymynyc/acid-wc",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dymynyc/acid-wc.git"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "scripts": {
+    "test": "set -e; for t in test/*.js; do node $t; done"
+  },
+  "author": "@EMovhfIrFk4NihAKnRNhrfRaqIhBv1Wj8pTxJNgvCCY=.ed25519",
+  "license": "MIT"  
+}
